@@ -267,6 +267,8 @@ header .header-content .header-content-inner p {
     position: relative;
     margin: 0 auto;
     max-width: 650px;
+    border:2px solid #FFFFFF; /*add a white border to pictures*/
+}
 }
 
 .portfolio-box .portfolio-box-caption {
